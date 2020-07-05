@@ -1,0 +1,28 @@
+
+////////////////////////////////////////
+///////// GALLERY
+////////////////////////////////////////
+
+.gallery {
+    padding: 3rem 2rem;
+    background-color: rgba(233, 229, 229, 0.534);
+    position: relative;
+
+    display: flex;
+
+  &__photo {
+      width: 100%;
+      padding:1rem;
+    
+      &-heading {
+        font-size: 1rem;
+        font-weight: 500;
+        background-color: #fff;
+        text-align: center;
+        margin: 0 4rem;
+        padding: .5rem 2rem;
+        position: absolute;
+        top: 68%;
+      }
+  }
+}

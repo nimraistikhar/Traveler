@@ -1,0 +1,22 @@
+
+.footer {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: .5rem;
+    margin: 0 2rem;
+    margin-bottom: .5rem;
+
+    display: flex;
+
+    &__links {
+        flex: 1;
+        display: flex;
+
+        &-item {
+            list-style: none;
+            padding-right: 1.2rem;
+
+        }
+    }
+}

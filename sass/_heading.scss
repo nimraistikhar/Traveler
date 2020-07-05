@@ -1,0 +1,44 @@
+
+
+//////////////////////////////////////
+/// Heading 
+//////////////////////////////////////
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color: rgb(61, 59, 59);
+    font-family: 'Lato', sans-serif;
+}
+
+h3 {
+    font-size: 1.2rem;
+    color: #302f2f;
+}
+
+h4 {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 1.1rem;
+}
+
+.heading-primary {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 1rem 0 2rem 0;
+    letter-spacing: .4rem;
+    display: block;
+    border-bottom: 2px solid rgba(184, 181, 181, 0.363);
+}
+
+.heading-secondary {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.heading-tertiary {
+    font-size: 'Raleway', sans-serif;
+    text-align: center;
+}
+

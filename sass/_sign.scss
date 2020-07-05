@@ -1,0 +1,41 @@
+
+////////////////////////////////////////
+///////// SIGN UP
+////////////////////////////////////////
+
+.sign {
+    margin: 9rem 0rem;
+    text-align: center;
+    a {
+        text-decoration: none;
+        font-family: 'Source Serif Pro', serif;
+        color: rgb(19, 18, 18);
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
+}
+
+
+.top-btn {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.top {
+    text-decoration: none;
+    color: #252525;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    font-size: .5rem;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+}
+
+span {
+    font-size: .8rem;
+}
+
+.top:hover {
+    border-bottom: 2px solid #252525;
+}
